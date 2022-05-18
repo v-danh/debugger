@@ -1,3 +1,6 @@
+import code
+
+
 def main():
     print('ML detector and debugger for IDE using Manchine Learing')
 
