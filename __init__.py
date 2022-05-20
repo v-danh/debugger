@@ -1,3 +1,5 @@
+# __init__.py
+
 from pip import main
 import correction
 import code

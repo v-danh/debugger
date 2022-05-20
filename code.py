@@ -1,11 +1,13 @@
+# code.py
+
 def errorDetection():
-    print('Error detection:')
+    print('Error detection -')
 
 def errorAnalysis():
-    print('Error analysis:')
+    print('Error analysis -')
     
 def errorCorrection():
-    print('Error correction:')
+    print('Error correction -')
     
 if __name__ == '__main__':
     errorDetection()

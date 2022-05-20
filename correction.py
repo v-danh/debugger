@@ -1,8 +1,10 @@
+# correction.py
+
 import code
 
 
 def main():
-    print('ML detector and debugger for IDE using Manchine Learing')
+    print('Errors correction for program using Machine Learing')
 
 if __name__ == '__main__':
     main()
