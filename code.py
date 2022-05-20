@@ -1,13 +1,13 @@
-def codeDetects():
-    print()
+def errorDetection():
+    print('Error detection:')
 
-def codeAnalysis():
-    print()
+def errorAnalysis():
+    print('Error analysis:')
     
-def codeDebugs():
-    print()
+def errorCorrection():
+    print('Error correction:')
     
 if __name__ == '__main__':
-    codeDetects()
-    codeAnalysis()
-    codeDebugs()
+    errorDetection()
+    errorAnalysis()
+    errorCorrection()

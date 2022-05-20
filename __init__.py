@@ -1,6 +1,10 @@
 from pip import main
-import debugger
+import correction
+import code
 
 if __name__ == '__main__':
-    debugger.main()
-    debugger.__name__
+    correction.main()
+    
+    code.errorDetection()
+    code.errorAnalysis()
+    code.errorCorrection()
