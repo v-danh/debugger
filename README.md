@@ -1,4 +1,4 @@
-#  Detector & Debugger in IDE
+#  Pythonic Detector & Debugger in IDE
 Detection, analysis and correction potential errors in all programs that use ML models
-# Supported programming languages
+# Programming language
 + Python
