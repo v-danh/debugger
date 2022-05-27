@@ -1,12 +1,12 @@
 # code.py
 
-def errorDetection():
+def errorDetection() -> None:
     print('Error detection -')
 
-def errorAnalysis():
+def errorAnalysis() -> None:
     print('Error analysis -')
     
-def errorCorrection():
+def errorCorrection() -> None:
     print('Error correction -')
     
 if __name__ == '__main__':
