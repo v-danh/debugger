@@ -5,7 +5,7 @@
 Detect, analyze and quickly correct the potential errors in all programs that use ML models.
 
 ## Prerequisites
-+ Install Python programming language at https://www.python.org/
++ Install Python programming language at <a href="https://www.python.org/" target="_blank">python.org</a>
 
 ## Descriptions
 Support Python 3x versions.
