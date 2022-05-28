@@ -8,7 +8,8 @@ Detect, analyze and quickly correct the potential errors in all programs that us
 + Install Python programming language at https://www.python.org/
 
 ## Descriptions
-+ Support Python 3x versions.
+Support Python 3x versions.
+
 ### Supported Programming languages
 + Python
 
