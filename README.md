@@ -9,3 +9,8 @@ Detect, analyze and quickly correct the potential errors in all programs that us
 ## Descriptions
 ### Supported Programming languages
 + Python
+
+
+## License
+Owned by Vu Duc Anh (https://github.com/v-danh) </br>
+Copyright © 2021 - 2022. All rights reserved.
