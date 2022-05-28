@@ -1,4 +1,4 @@
-#  Detector & Debugger in IDE
+#  ML debugger in IDE
 
 
 ## Introductions
