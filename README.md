@@ -2,7 +2,7 @@
 
 
 ## Introductions
-Detect, analyze and quickly correct the potential errors in all programs that use ML models.
+Detect, analyze and quickly correct the potential errors in all programs using Machine Learning models.
 
 ## Prerequisites
 + Install Python programming language at <a href="https://www.python.org/" target="_blank">python.org</a>
